@@ -1,0 +1,23 @@
+h1{
+    color: red;
+}
+
+.one{
+    color: bisque;
+}
+
+.two{
+    color: brown;
+}
+
+#Three{
+    color:green ;
+}
+
+
+
+Dev's Priority
+Element Selector>Class Selector>Id selector
+
+Browser's Priority
+Id Selector>class>Element

@@ -1,0 +1,24 @@
+html:
+    <script src="first.js"></script>
+
+first.js
+    console.log("Hello world");
+
++ - Addition
+-
+*
+/
+% - Remainder
+** - power
+
+<,<=,>,>=,==,===,!=
+
+=,+=,-=,*=,/=,%=
+
+++,--
+
+and(&&)
+
+or(||)
+
+not(!)

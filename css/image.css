@@ -1,0 +1,15 @@
+.box{
+    width: 500px;
+    height: 500px;
+    /* background-image: url("assets/image.jpg");
+    background-size: contain;
+    background-repeat: no-repeat; */
+    margin: 100px;
+    /* box-shadow: x-axis y-axis blur color; */
+    /* box-shadow: 5px 5px 10px black; */
+
+    border: 5px solid black;
+    border-radius: 250px;
+}
+
+
