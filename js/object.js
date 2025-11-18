@@ -27,3 +27,13 @@ var stu_data=[
 ]
 
 console.log(stu_data[2].stu_name);
+
+
+var obj={
+    stu_name:"Rahul",
+    rollno:34
+}
+
+console.log(Object.keys(obj)); // To get all keys
+console.log(Object.values(obj)); // To get all keys
+console.log(Object.entries(obj)); // To get all keys
